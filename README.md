@@ -1,4 +1,4 @@
 # Note
 个人笔记
 
-.Java
+1.[Java](java)
